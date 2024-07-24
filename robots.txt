@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://swarathe.github.io/sitemap.html.gz
+Sitemap: https://swarathe.github.io/app/sitemap.html.gz
+Sitemap: https://swarathe.github.io/assets/sitemap.html.gz
+Sitemap: https://swarathe.github.io/css/sitemap.html.gz
+Sitemap: https://swarathe.github.io/includes/sitemap.html.gz
+Sitemap: https://swarathe.github.io/item/sitemap.html.gz
+Sitemap: https://swarathe.github.io/src/sitemap.html.gz
